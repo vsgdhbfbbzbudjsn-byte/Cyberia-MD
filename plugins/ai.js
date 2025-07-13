@@ -4,7 +4,7 @@ const axios = require("axios");
 const { malvin } = require("../malvin");
 
 malvin({
-    pattern: "drakonis,
+    pattern: "drakonis",
     alias: "drakonis",
     desc: "Interact with ChatGPT using the XD Api.",
     category: "ai",
@@ -14,7 +14,7 @@ malvin({
 }, async (conn, mek, m, { from, args, q, reply }) => {
     try {
         // Vérification de l'entrée utilisateur
-        if (!q) return reply("⚠️ Please provide a query for Drakonis Ai.\n\nExample:\n.malvin What is AI?");
+        if (!q) return reply("⚠️ Please provide a query for Drakonis Ai.\n\nExample:\n.drakonis What is AI?");
 
         // Utilisation de `${text}` dans le endpoint API
         const text = q;  // Texte de la requête de l'utilisateur
@@ -51,7 +51,7 @@ malvin({
         const ALIVE_IMG = 'https://files.catbox.moe/ygfz2e.jpg'; // Remplacez par l'URL de votre image AI
 
         // Légende avec des informations formatées
-        const formattedInfo = `🤖 *Malvin's Response:*\n\n${gptResponse}`;
+        const formattedInfo = `🤖 *Drakonis Response:*\n\n${gptResponse}`;
 
         // Envoyer le message avec image et légende
         await conn.sendMessage(from, {
