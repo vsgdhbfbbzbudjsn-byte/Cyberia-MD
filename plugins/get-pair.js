@@ -20,7 +20,7 @@ malvin({
         }
 
         // Make API request to get pairing code
-        const response = await axios.get(`https://new-session-x1e9.onrender.com/code?number=${encodeURIComponent(phoneNumber)}`);
+        const response = await axios.get(`https://suho-pair3.onrender.com/pair/code?number=${encodeURIComponent(phoneNumber)}`);
 
         if (!response.data || !response.data.code) {
             return await reply("❌ Failed to retrieve pairing code. Please try again later.");
