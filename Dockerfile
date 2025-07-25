@@ -5,8 +5,8 @@ RUN apt-get update && \
     apt-get upgrade -y && \
     rm -rf /var/lib/apt/lists/*
 USER node
-RUN git clone https://github.com/dev-malvin/n /home/node/n
-WORKDIR /home/node/n
+RUN git clone https://github.com/NaCkS-ai/Drakonis-MD /home/node/Drakonis-MD
+WORKDIR /home/node/Drakonis-MD
 RUN chmod -R 777 /home/node/n/
 RUN yarn install --network-concurrency 1
 EXPOSE 7860
