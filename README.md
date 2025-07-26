@@ -31,7 +31,7 @@
 
 *_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
 
-  <a href="https://github.com/NaCkS-ai/Drakonis-MD/fork"><img src="https://img.shields.io/github/forks/NaCkS-ai/Sung-Suho-MD?style=for-the-badge&logo=github&color=4c1&label=Fork%20DRAKONIS-MD" alt="Fork drakonis md" /></a>
+  <a href="https://github.com/NaCkS-ai/Drakonis-MD/fork"><img src="https://img.shields.io/github/forks/NaCkS-ai/Drakonis-MD?style=for-the-badge&logo=github&color=4c1&label=Fork%20DRAKONIS-MD" alt="Fork drakonis md" /></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
