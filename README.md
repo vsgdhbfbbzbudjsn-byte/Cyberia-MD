@@ -1,9 +1,9 @@
-# Drakonis-MD 
+# Cyberia-MD 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 𝐁𝐞𝐬𝐭 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐁𝐨𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 Dev Sung 🔮⚜️
 <p align="center">
-  <img src="https://files.catbox.moe/gbj8gz.jpg" />
+  <img src="https://files.catbox.moe/lvomei.jpg" />
 </p>
 
 <!-- 📊 STATS & HERO ANIMATION (Updated Colors) -->
@@ -11,11 +11,11 @@
 
   <!-- GitHub Stats Badges with new color palette -->
   <p>
-    <img src="https://img.shields.io/github/forks/NaCkS-ai/Drakonis-MD?style=flat&color=1E88E5&logo=github&logoColor=white&label=Forks" alt="GitHub Forks" />
+    <img src="https://img.shields.io/github/forks/NaCkS-ai/Cyberia-MD?style=flat&color=1E88E5&logo=github&logoColor=white&label=Forks" alt="GitHub Forks" />
     <img src="https://img.shields.io/github/followers/NaCkS-ai?style=flat&color=43A047&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/last-commit/NaCkS-ai/Drakonis-MD?style=flat&color=8E24AA&logo=git&logoColor=white&label=Last%20Commit" alt="Last Commit" />
-    <img src="https://img.shields.io/github/repo-size/NaCkS-ai/Drakonis-MD?style=flat&color=0097A7&logo=database&logoColor=white&label=Repo%20Size" alt="Repo Size" />
-    <img src="https://img.shields.io/github/package-json/v/NaCkS-ai/Drakonis-MD?style=flat&color=F57C00&logo=npm&logoColor=white&label=Version" alt="Package Version" />
+    <img src="https://img.shields.io/github/last-commit/NaCkS-ai/Cyberia-MD?style=flat&color=8E24AA&logo=git&logoColor=white&label=Last%20Commit" alt="Last Commit" />
+    <img src="https://img.shields.io/github/repo-size/NaCkS-ai/Cyberia-MD?style=flat&color=0097A7&logo=database&logoColor=white&label=Repo%20Size" alt="Repo Size" />
+    <img src="https://img.shields.io/github/package-json/v/NaCkS-ai/Cyberia-MD?style=flat&color=F57C00&logo=npm&logoColor=white&label=Version" alt="Package Version" />
   </p>
 
   <!-- Hero GIF with updated border & hover effect -->
@@ -31,7 +31,7 @@
 
 *_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
 
-  <a href="https://github.com/NaCkS-ai/Drakonis-MD/fork"><img src="https://img.shields.io/github/forks/NaCkS-ai/Drakonis-MD?style=for-the-badge&logo=github&color=4c1&label=Fork%20DRAKONIS-MD" alt="Fork drakonis md" /></a>
+  <a href="https://github.com/NaCkS-ai/Cyberia-MD/fork"><img src="https://img.shields.io/github/forks/NaCkS-ai/Cyberia-MD?style=for-the-badge&logo=github&color=4c1&label=Fork%20Cyberia-MD" alt="Fork Cyberia md" /></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
