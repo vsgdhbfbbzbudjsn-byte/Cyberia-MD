@@ -5,9 +5,9 @@ RUN apt-get update && \
     apt-get upgrade -y && \
     rm -rf /var/lib/apt/lists/*
 USER node
-RUN git clone https://github.com/NaCkS-ai/Drakonis-MD /home/node/Drakonis-MD
-WORKDIR /home/node/Drakonis-MD
-RUN chmod -R 777 /home/node/n/
+RUN git clone https://github.com/NaCkS-ai/Cyberia-MD /home/node/Cyberia-MD
+WORKDIR /home/node/Cyberia-MD
+RUN chmod -R 777 /home/node/Cyberia-MD/
 RUN yarn install --network-concurrency 1
 EXPOSE 7860
 ENV NODE_ENV=production
