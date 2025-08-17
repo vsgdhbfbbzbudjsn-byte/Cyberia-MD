@@ -49,7 +49,7 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
 
 > 🔹 QR Code Authentication
 
-[![Scan QR Code](https://img.shields.io/badge/Scan%20QR%20Code-000000?style=for-the-badge&logo=react&logoColor=white)](https://suho-pair3.onrender.com/qr)
+[![Scan QR Code](https://img.shields.io/badge/Scan%20QR%20Code-000000?style=for-the-badge&logo=react&logoColor=white)](https://cyberia-universe1.onrender.com/qr)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -118,11 +118,11 @@ jobs:
 
 ### Thank You Dear
 
-> DEVELOPER OF Drakonis-MD 
+> DEVELOPER OF Cyberia-MD 
 - [ Dev Sung ](https://github.com/NaCkS-ai)
-- Creater and Owner Of Drakonis-MD 
+- Creater and Owner Of Cyberia-MD
 
-> Drakonis-MD Helper
+> Cyberia-MD Helper
 - [Malvin King](https://github.com/XdKing2)
 - For helping in bot plugin files.
 ---
